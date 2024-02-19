@@ -216,7 +216,8 @@ class MainApp(QMainWindow, FORM_CLASS):
 
     def on_label_mouse_move(self, event, label):
         try:
-
+           
+            if event.buttons() & Qt.LeftButton:
                 # Adjust brightness based on mouse position
                 width = label.width()
                 mouse_x = event.x()
