@@ -1,0 +1,37 @@
+QWidget {
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+/* Frame Style */
+QFrame {
+    background-color: #e0e0e0;
+    border: 2px solid #d0d0d0;
+    border-radius: 5px;
+}
+
+/* ComboBox Style */
+QComboBox {
+    background-color: #d0d0d0;
+    border: 1px solid #c0c0c0;
+    border-radius: 3px;
+    color: #333333;
+}
+
+/* PushButton Style */
+QPushButton {
+    background-color: #d0d0d0;
+    border-radius: 3px;
+    color: #333333;
+    padding: 5px;
+}
+
+/* ComboBox Popup Style */
+QComboBox QAbstractItemView {
+    background-color: #d0d0d0;
+    border: 1px solid #c0c0c0;
+    selection-background-color: #b0b0b0;
+    color: #333333;
+}
+
+
