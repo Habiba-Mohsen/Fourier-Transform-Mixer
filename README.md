@@ -20,13 +20,6 @@ FourierBlend Studio is a powerful desktop application designed for image mixing 
 ## Demo
 ![Watch demo](https://github.com/Habiba-Mohsen/Fourier-Transform-Mixer/blob/main/assets/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif)
 
-## Contributors
- <a href="https://github.com/Habiba-Mohsen">
-    <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="Habiba Mohsen">
-  </a>
-  <a href="https://github.com/mohandemadx">
-    <img src="https://github.com/mohandemadx.png" width="100px" alt="Mohand Emad">
-  </a>
 
 ## Acknowledgments
 
